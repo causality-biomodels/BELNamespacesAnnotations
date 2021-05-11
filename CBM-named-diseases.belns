@@ -1,0 +1,330 @@
+[Namespace]
+NameString=CBM Named Diseases
+Keyword=CBMDIS
+DomainString=Diseases
+SpeciesString=all
+DescriptionString=List of diseases. 
+VersionString=1.2.3
+CreatedDateTime=2021-04-23T10:50:12
+
+[Author]
+NameString=Causality Biomodels
+ContactInfoString=https://www.causalitybiomodels.com/
+
+[Citation]
+NameString=None
+
+[Processing]
+CaseSensitiveFlag=yes
+DelimiterString=|
+CacheableFlag=yes
+
+[Values]
+ATP Depletion|O
+Acute Myocardial Infarction|O
+Alzheimers disease|O
+Androgen independence|O
+Atherogenesis|O
+Atherosclerotic lesion|O
+B cell lymphoma|O
+Carcinoma of Hepatocyte|O
+Carcinoma of astrocyte|O
+Carcinoma of bone|O
+Carcinoma of brain|O
+Carcinoma of breast|O
+Carcinoma of endometrium|O
+Carcinoma of esophagus|O
+Carcinoma of gastrointestinal tract|O
+Carcinoma of germ cell|O
+Carcinoma of intestine|O
+Carcinoma of kidney|O
+Carcinoma of large intestine|O
+Carcinoma of lymphocyte|O
+Carcinoma of melanocyte|O
+Carcinoma of mouth|O
+Carcinoma of muscle|O
+Carcinoma of myeloid cell|O
+Carcinoma of nasopharynx|O
+Carcinoma of nervous system|O
+Carcinoma of pancreas|O
+Carcinoma of rectum|O
+Carcinoma of skin|O
+Carcinoma of t-cell|O
+Carcinoma of thymus|O
+Carcinoma of thyroid gland|O
+Carcinoma of uterus|O
+Cardiomyopathy|O
+Chronic Obstructive Pulmonary Disease|O
+Chylomicron secretion|O
+Cisplatin resistance|O
+Colonic Mucosal Wound Healing|O
+Crohn's Disease|O
+Cytotoxic T-cell activation|O
+Deep Venous Thrombosis|O
+Diabetes|O
+Down syndrome|O
+Doxorubicin resistance|O
+EGFR inhibitor resistance|O
+ER negative breast cancer|O
+ER positive breast cancer|O
+ERBB2 overexpressing breast cancer|O
+Encephalopathy|O
+Erlotinib resistance|O
+Esophageal Adenocarcinoma|O
+Etoposide resistance|O
+Gastric Adenoma|O
+Glomerulogenesis|O
+Hemodialysis|O
+Hepatic Cirrhosis|O
+Hepatitis B viral infection|O
+Hepatitis C viral infection|O
+Homoharringtonine resistance|O
+Hyperinsulinemia|O
+Hyperlipidemia|O
+Hypertensive Heart Disease|O
+Hypoketonemia|O
+Inflammatory Bowel Disease|O
+Influenza A Virus Infection|O
+Influenza A Virus, H5N1 Subtype Infection|O
+Irinotecan resistance|O
+Liver Injury|O
+Miller-Dieker syndrome|O
+Myopathy|O
+Nephrogenesis|O
+Oedema|O
+Osteopenia|O
+PR positive breast cancer|O
+Paclitaxel resistance|O
+Partial Pancreatectomy|O
+Renal Sclerosis|O
+Respiratory Syncytial Virus Infection|O
+Retinopathy|O
+Schizophrenia|O
+Skeletal Muscle Disuse Atrophy|O
+Skeletal Muscle Hypertrophy|O
+Steatosis|O
+Steroidogenesis|O
+Superimposed Alcoholic Hepatitus|O
+Systemic Lupus Erythematosus|O
+T-cell leukemia|O
+Type I diabetes|O
+Type II diabetes|O
+Ulcerative Colitis|O
+Urothelial Plaque|O
+Vascular Wall Inflammation|O
+Vincristine resistance|O
+acute endotoxemia|O
+acute lymphoblastic leukemia|O
+acute myelogenous leukemia|O
+acute phase reaction|O
+adenocarcinoma|O
+adenoma|O
+advanced Adenocarcinoma|O
+amyotrophic lateral sclerosis|O
+anemia|O
+aneurysm formation|O
+ankylosing spondylitis|O
+arteritis|O
+astrocytoma|O
+atrial fibrillation|O
+atrophy|O
+autoimmunity|O
+bacterial infection|O
+barrett esophagus|O
+bile duct ligation|O
+bradycardia|O
+breast cancer metastasis|O
+burn injury|O
+cachexia|O
+calcification|O
+cancer|O
+carcinoma of epithelium|O
+carcinoma of liver|O
+carcinoma of lung|O
+carcinoma of prostate gland|O
+carcinoma of squamous cell|O
+carcinoma of stomach|O
+cardiac arrhythmia|O
+cardiac pacemaker activity|O
+cardiomyocyte hypertrophy|O
+castration|O
+chronic myeloid leukemia|O
+cirrhosis|O
+clot formation|O
+colitis|O
+colorectal adenoma|O
+congestive heart failure|O
+cystic fibrosis|O
+denervation|O
+dilatation|O
+ductal carcinoma|O
+edema|O
+emphysema|O
+eosinophil migration to infection|O
+epidermal stem cell homeostasis|O
+epithelial barrier function|O
+erectile dysfunction|O
+fatty-acid synthesis|O
+fibrillar adhesion|O
+fibronectin matrix assembly|O
+fibrosis|O
+gallstones|O
+gastric adenocarcinoma|O
+glioblastoma|O
+glioma|O
+glomerulonephritis|O
+glomerulosclerosis|O
+haptotaxis|O
+heart block|O
+hematocrit|O
+hematopoiesis|O
+hemorrhage|O
+hepatitis|O
+hepatocellular carcinoma|O
+hepatocyte response to toxin|O
+hereditary breast cancer|O
+high-fat diet|O
+hodgkins disease|O
+hydrocephalus|O
+hyperalgesia|O
+hypercholesterolemia|O
+hyperemia|O
+hyperoxia|O
+hyperplasia|O
+hyperplasia of breast tissue|O
+hypertension|O
+hypertrophy|O
+hypoglycemia|O
+immortalization|O
+immunoglobulin synthesis|O
+impaired glucose tolerance|O
+infection|O
+insulin resistance|O
+intestinal dysfunction|O
+intrauterine growth retardation|O
+invasive breast cancer|O
+invasive cancer|O
+ketoacidosis|O
+large cell carcinoma|O
+leakage of blood vessels|O
+left ventricular systolic dysfunction|O
+leiomyloid tumor|O
+leiomyoma|O
+leukemia|O
+leukemic infiltration|O
+leukocyte PAF secretion|O
+leukocyte migration to infection|O
+liver fibrosis|O
+local Adenocarcinoma|O
+local acute phase reaction|O
+long QT syndrome|O
+lung adenocarcinoma|O
+lung squamous cell carcinoma|O
+lymphadenopathy|O
+lymphoid hyperplasia|O
+lymphoma|O
+lymphopenia|O
+medulloblastoma|O
+melanoma|O
+mesothelioma|O
+metastasis|O
+mitochondrial DNA damage|O
+mitochondrial damage|O
+monocyte diapadesis|O
+motor neuron cell death|O
+multiple myeloma|O
+muscular distrophy|O
+mycobacterial infection|O
+myelodysplastic syndromes|O
+myeloproliferative disorder|O
+myocardial contraction|O
+myocardial infarction|O
+nanovesicle|O
+natural killer cell migration to infection|O
+neoplasia|O
+nephropathy|O
+neuroblastoma|O
+neurodegeneration|O
+neuropathy|O
+neutrophil activation-dependent arrest|O
+non-hodgkins lymphoma|O
+non-small cell lung carcinoma|O
+noninvasive breast cancer|O
+obesity|O
+oncogenic transformation|O
+osteoarthritis|O
+osteoclast activity|O
+osteopetrosis|O
+osteoporosis|O
+osteosarcoma|O
+pancreatic ductal carcinoma|O
+plaque destabilization|O
+platelet activation-dependent arrest|O
+platelet spreading|O
+polycystic kidney disease|O
+polycythemia|O
+prostate cancer|O
+psoriasis|O
+reperfusion injury|O
+retinoblastoma|O
+rhabdomyosarcoma|O
+rheumatoid arthritis|O
+skin lesion|O
+small cell carcinoma|O
+splenomegaly|O
+steatohepatitis|O
+stroke|O
+systemic acute phase reaction|O
+t(4 14) translocation|O
+tachycardia|O
+tissue damage|O
+triple microtubule|O
+tuberculosis|O
+tumor angiogenesis|O
+tumor cell invasion|O
+tumor growth|O
+vascular dysfunction|O
+vascular tissue damage|O
+vasculitis|O
+ventricular fibrillation|O
+very-long-chain peroxisomal fatty acid beta-oxidation|O
+viral infection|O
+dilation, luminal|O
+ileal tuft cell hyperplasia|O
+Intimal Hyperplasia|O
+Ulcerative Colitis-Associated Colorectal Adenocarcinoma|O
+Defecation Urgency|O
+x-linked-like syndrome|O
+enteric infection|O
+Colon Injury|O
+Colitis-Associated Neoplasms|O
+altered paneth cell morphology|O
+general discomfort|O
+small intestinal damage|O
+Bloating|O
+atrophy, mucosa|O
+Liver lesion|O
+Abdominal distension|O
+insulitis|O
+Insulin Control Element activator Hs|A
+Lipid Droplet|A
+Lipid droplet|A
+adipocyte lipid droplet|A
+classical focal adhesion|A
+liposome|A
+microvesicle|A
+microvesicle lipid raft|A
+nanovesicle lipid raft|A
+Insulin Control Element activator Hs|A
+Lipid Droplet|A
+Lipid droplet|A
+adipocyte lipid droplet|A
+classical focal adhesion|A
+liposome|A
+microvesicle|A
+microvesicle lipid raft|A
+nanovesicle lipid raft|A
+Hemorrhagic colitis|O
+granulomatous inflammation|O
+cavities|O
+tissue repair|O

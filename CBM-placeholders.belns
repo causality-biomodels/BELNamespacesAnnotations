@@ -1,0 +1,134 @@
+[Namespace]
+Keyword=placeholder
+NameString=CBM placeholder
+VersionString=1.1.2
+CreatedDateTime=2021-04-23T10:23:20
+
+[Author]
+NameString=Causality Biomodels
+ContactInfoString=https://www.causalitybiomodels.com/
+CopyrightString="CausalityBiomodels 2021 copyright"
+
+[Citation]
+NameString=None
+
+[Processing]
+CaseSensitiveFlag=yes
+DelimiterString=|
+CacheableFlag=yes
+
+[Values]
+IBD microbiota|A
+IgM B cells|A
+Intraepithelial Lymphocytes|A
+Group 3 Innate Lymphoid Cells|A
+Bacterial Outer Membrane|A
+Th 9 cells|A
+fermented barley and soybean mixture|A
+CD4+ CD45RO CD25+ FOXP3+ regulatory T cells|A
+Cytotoxic T lymphocytes infiltration|A
+Antineutrophil Cytoplasmic Antibody|A
+corn fiber|A
+prpBCDE operon|A
+Altered Schaedler flora|A
+Lgr5 cells|A
+symbiont|A
+rice callus suspension culture|A
+high fiber diet|A
+intestinal epithelial cell|A
+IL-10-producing T cells|A
+chow|A
+Foxp3+ Treg Cells|A
+double-positive intraepithelial T lymphocytes|A
+crypt of Lieberkuhn of colon|A
+germinated barley foodstuff|A
+Type II natural killer T cells|A
+IgD B cells|A 
+beta-galactooligosaccharide|A
+MPO+ Neutrophils|A
+peritoneal cells|A
+CD115 resident macrophages|A
+immature B cell|A
+CD80-CD273- B Cells|A
+CD11b+ cells|A
+mature B cell|A
+Ly6Cint Monocytes|A
+CD80+CD273- B Cells|A
+F4/80+ Macrophages|A
+colon length|A
+CD5+CD43+ B1 Cell|A
+CD11b+Ly6G- resident macrophages|A
+CD45+ Leukocytes|A
+CD11b+Ly6Chi inflammatory monocytes|A
+Cd11c Macrophages|A
+Ly6G+ Neutrophils|A
+CD19+CD3- B1 Cell|A
+IgM memory B cell|A
+Antrodia cinnamomea water extract|A
+CXCR5+ follicular T helper cells|A
+IgA coated bacteria|A
+FOXP3+ Lymphocytes|A
+NFKB signaling mediators|A
+epididymal fat pads|A
+pancreatic acinar cell|A
+cell elongation of Escherichia coli|B
+CD20-CD38+ plasma B cells|A
+Foxp3C regulatory T (Tre|A
+gas production|A
+bacterial alpha diversity|A
+superficial infiltrates|A
+Foxp3+ regulatory T cells|A
+CD4+ Foxp3+ CD25+ T-Lymphocytes, Regulatory|A
+IgG2a expressing B cells|A
+lipid-binding protein|P
+rc4-4|A
+IgG3 expressing B cells|A
+dietary compounds|A
+whole-grains, traditional Chinese medicinal foods and prebiotics diet|A
+intestinal lumen|A
+amylase treated wheat bran|A
+type VI secretion system|B
+crypt of Lieberkuhn depth|A
+CD3+ T Cells|A
+IgA+ B220- plasma cells|A
+gonadal fat pad|A
+F4/80+Macrophages|A
+L-arabinose operon|A
+IgA-secreting B cells|A
+butyrate-producing bacterium|A
+F40/80+ Macrophages|A
+villus length|A
+IgA memory B cell|A
+CD4+ Intraepithelial Lymphocytes|A
+Anti-double stranded DNA antibodies|A
+IgG1 expressing B cells|A
+Insulin+ ductal cells|A
+antimicrobial compounds|A
+CD3-positive T-Lymphocytes|A
+crypt length|A
+Adipocyte size|A
+apple pectin|A
+house dust mite extract|A
+Dendritic cell precursor|A
+IgG2b expressing B cells|A
+orange peel|A
+strict anaerobes|A
+colonization factor antigens|A
+epididymal fat|A
+F4/80+ CD11b+ CD11cdull-neg Macrophages|A
+pea fiber|A
+villi|A
+barley bran|A
+beta-D-Frup-(2->1)-beta-D-Frup-(2->1)-d-Fru|A
+Foxp3C regulatory T (Treg) cells|A
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,452 @@
+[Namespace]
+Keyword=CBMBP
+NameString=CBM Named Biological processes
+DomainString=Biological
+VersionString=1.1.2
+CreatedDateTime=2021-04-23T10:23:20
+
+[Author]
+NameString=Causality Biomodels
+ContactInfoString=https://www.causalitybiomodels.com/
+CopyrightString="CausalityBiomodels 2021 copyright"
+
+[Citation]
+NameString=None
+
+[Processing]
+CaseSensitiveFlag=yes
+DelimiterString=|
+CacheableFlag=yes
+
+
+[Values]
+mitochondrial transmembrane potential|B
+mitochondrial damage|B
+Reserve synaptic pool vesicles mobilization|B
+mitochondrial defect|B
+cilia polarization|B
+regulation of M2 macrophage differentiation|B
+Translational Depression of Nuclear-Encoded Respiratory Chain Complex mRNA|B
+T cell extravasation|B
+platelet microvesiculation|B
+synaptic dysfunction|B
+Ly6g -granulocytic myeloid-derived suppressor cells differenciation|B
+calcium uptake|B
+Stenosis|B
+APP secretion|B
+metallopeptidase activity|B
+voltage-activated K+ currents|B
+ubiquitin-proteasome pathway|B
+nonsaponifiable-lipid biosyntetic process|B
+platelet clearance|B
+oxidative protein folding|B
+mitochondrial uncoupling|B
+loss of dopamine fibers|B
+Diet, krill oil|AB
+beta amyloid induced stress|B
+growth cone collapse response|B
+Translation of Nuclear-Encoded Respiratory Chain Complex mRNA|B
+Ly6g -granulocytic myeloid-derived suppressor cells chemotaxis|B
+Neuronal injury-induced glial apoE secretion|B
+Ly6g -granulocytic myeloid-derived suppressor cells activation|B
+tumor rejection|B
+Ly6c - monocytic myeloid-derived suppressor cells differenciation|B
+regulation of CD8-positive, alpha-beta T cell chemotaxis|B
+mitochondrial import|B
+Parlb function|B
+PDK1-mediated signal transduction pathway|B
+RNA metabolism|B
+IFNG transport into immunological synapse|B
+behavioral deficit|B
+ciliostasis|B
+angiogenic switch|B
+phosphorylation|B
+mitochondrial stress|B
+endothelial cell perturbation|B
+Hypercytokinemia|B
+viral transduction|B
+Localization of Nuclear-Encoded Respiratory Chain Complex mRNA|B
+ATP production|B
+ER mitochondria interorganellar crosstalk|B
+tumor cell apoptosis|B
+microglia-mediated dopaminergic neuron cell death|B
+CHT endocytosis|B
+mitochondrial respiration|B
+prenatal behavior|B
+Smoking|B
+mucociliary clearance|B
+granulovacuolar degeneration|B
+Mitochondrial Fragmentation|B
+Mitochondria purification|B
+microtubule assembly|B
+endocytosis|B
+mucociliary transport|B
+oxidative neuronal injury|B
+integrity regulation|B
+Calcium dysfunction|B
+growth factor activity|B
+insulin sensitivity|B
+phospho-Erk1 expression|B
+Ly6c - monocytic myeloid-derived suppressor cells apoptosis|B
+lipid particle turnover|B
+acetylcholine expression|B
+glutamatergic synaptic transmission|B
+Gr1CD11b myeloid suppressor cell differentiation|B
+tumor associated macrophages differenciation|B
+basal body polarization|B
+Cap thickness|B
+mitochondrial clearance|B
+regulation of M1 macrophage differentiation|B
+regulation of Ly6g -granulocytic myeloid-derived suppressor cells activation|B
+loss of dopaminergic neurons|B
+inflammatory injury|B
+mitochondrial fragmentation|B
+Diet, fish oil|AB
+dopamine transporter expression|B
+apoptotic cell death|B
+negative regulation of Ly6g -granulocytic myeloid-derived suppressor cells activation|B
+CD4-positive, alpha-beta T cell apoptotic process|B
+MAPK phosphorylation|B
+regulation of CD4-positive, alpha-beta T cell chemotaxis|B
+lethal toxicity|B
+cilium shortening|B
+motor disturbance|B
+TIM/TOM complex|B
+PINK1-Parkin Pathway|B
+Ca2+ uptake|B
+EndoG depletion|B
+monocyte/macrophage invasion of tumors|B
+endothelial function|B
+kainate induced neurotoxicity|B
+kinase domain activation|B
+spatial learning|B
+dopaminergic neuron damage|B
+expression of respiratory chain complex|B
+tumor cell proliferation|B
+mitochondrial DNA transcript processing|B
+microglial dysfunction|B
+Mitochondrial Dysfunction|B
+regulatory B -Cell  proliferation|B
+Ca2+ homeostasis|B
+synaptic mitochondria depletion|B
+microparticle shedding|B
+granzyme B transport into immunological synapse|B
+selective turnover of respiratory chain|B
+positive regulation of regulatory T cell apoptotic process|B
+protein turnover|B
+cytokine storm|B
+DNA deletion|B
+derepression of Nuclear-Encoded Respiratory Chain Complex mRNA|B
+vascular contraction|B
+motility|B
+mitochondrial homeostasis|B
+memory impairment|B
+Mitochondrial dysfunction|B
+respiratory chain subunit, CI-20|B
+APP endoproteolysis|B
+Cholinergic gene expression|B
+PI3K-Akt signaling pathway|B
+loss of dopamine neurons|B
+negative regulation regulatory B -Cell  differenciation|B
+tumor cell necrosis|B
+Parla function|B
+cilium cell detachment|B
+lysosomal hydrolysis|B
+cilia orientation|B
+mitochondrial function|B
+Ly6g -granulocytic myeloid-derived suppressor cells apoptosis|B
+astrogliosis|B
+degeneration of dopaminergic neuron|B
+ubiquitin protein ligase activity|B
+maintenance of dopaminergic neuron|B
+regulatory B -Cell apoptotic process|B
+glucose regulation|B
+bile hydroxylation|B
+low shear stress|B
+fibrous cap thickness|B
+beta amyloid induced neuron death|B
+loss of neuron|B
+respiratory chain subunit, CIV-II|B
+neuronal loss|B
+mitochondrial elongation|B
+Cytoprotection|B
+regulatory B -Cell  differenciation|B
+Potassium induced dopamine release|B
+locomotor cross-sensitization to caffeine|B
+glycogen synthase kinase-3 beta intracellular signaling pathway|B
+morphological modification|B
+regulatory T cell chemotaxis|B
+olfactory dysfunction|B
+T cell receptor activation by tumor cell|B
+unfolded protein response|B
+Synaptic loss|B
+mitochondrial toxicity|B
+regulatory B -Cell activation|B
+excitotoxic neuronal death|B
+mitochondrial inter membrane space protein assembly|B
+positive regulation regulatory T cell apoptotic process|B
+bilirubin clearance|B
+ER-mitochondria coupling|B
+DAP12 pathway|B
+regulation of Ly6g -granulocytic myeloid-derived suppressor cells differenciation|B
+X chromosome-linked inborn error of metabolism|B
+dopaminergic neuron degeneration|B
+mitophagy|B
+mast cell chemotaxis|B
+mRNA localized translation|B
+protein prolongation|B
+ST6GAL1 secretion|B
+tumor cell cytolysis|B
+neurotoxicity|B
+cilia lengh|B
+Activation of Nuclear-Encoded Respiratory Chain Complex mRNA|B
+platelet tethering|B
+Ly6c - monocytic myeloid-derived suppressor cells proliferation|B
+xenogenic expression|B
+pericytes coverage|B
+toxic gain-of-function|B
+Glutamate excitotoxicity|B
+Ly6g -granulocytic myeloid-derived suppressor cells proliferation|B
+Ly6c - monocytic myeloid-derived suppressor cells chemotaxis|B
+mitochondrial aggregation|B
+ureagenesis|B
+platelet adhesion|B
+Ly6c - monocytic myeloid-derived suppressor cells activation|B
+Caspase-3 immunoreactivity|B
+hemodialysis|B
+high shear stress|B
+centriole docking|B
+nicotine N'-oxide|B
+spatial memory|B
+CD8-positive, alpha-beta T cell apoptotic process|B
+fluoro-ruby-labeled nigrostriatal projection|B
+glucose disposal|B
+neurofibrillary tangle formation|B
+cyclic compressive stress|B
+PINK1-Park pathway|B
+senecionine N-oxygenase activity|B
+xenobiotic hydroxylation|B
+mobility|B
+oxidative pmodification|B
+autophagosome fusion|B
+morphology regulation|B
+ubiquitin chain extension|B
+translational polarity|B
+ubiquitin ligase activity|B
+cytotoxic T cell apoptotic process|B
+neurotransmission|B
+surface protein shedding|B
+regulatory T cell proliferation|B
+NOTCH1 endoproteolysis|B
+neuron apoptosis|B
+HNRPF Ubiquitination|B
+astrocytic mGLuR5 protein expression|B
+beta-amyloid clearance|B
+CD11 pathway|B
+anterograde axonal transport|B
+Bacterial invasion|B
+mitochondrial inter membrane space protein import|B
+selective autophagic degradation|B
+phospho-Erk2 expression|B
+Stress|B
+mitochondrial enlarging|B
+vitamin K1 conversion to vitamin K2|B
+dysfunction of ubiquitin-proteasome pathway|B
+hypomorphic mutation of AIF|B
+dopamine oxidation|B
+macrophage infiltration|AB
+Diet, High-Protein|AB
+bile acid uptake|B
+M2 macrophage polarization|B
+nitrogen flux|B
+T-helper 2 type immune response|B
+bacterial replication|B
+Nitrosative Stress|B
+NOD-like receptor signaling pathway|B
+killing of phagocytosed bacterium|B
+mucus viscoelasticity|B
+Host Microbial Interactions|B
+High FODMAP Diet|AB
+intestinal myofibroblast cell proliferation|B
+lipoprotein uptake|B
+APOB folding|B
+Acidification|B
+Adult Liver Hematopoiesis|B
+B cell polarization|B
+CD4+CD3+TCR+ naive T-cell differentiation|B
+CD8+CD3+TCR+ naive T-cell differentiation|B
+Cftr maturation|B
+ERK signaling cascade|B
+I(Ks) slow delayed rectifier potassium current|B
+I(NCX) sodium-calcium exchanger current|B
+I(Na)  sodium channel current|B
+I(f) F-channel current|B
+I(p) sodium-potassium pump current|B
+I(st) St channel current|B
+I(to) transient outward current|B
+Insulin_signaling|B
+JNK signaling pathway|B
+LDL biosynthesis|B
+LDL oxidation|B
+LDL uptake|B
+Liver Regeneration|B
+Mitochondrial Uncoupling|B
+Myoblast proliferation|B
+Oncogene induced senescence|B
+Photo-oxidative Stress|B
+Positive-Pressure Respiration|B
+Proteasome assembly|B
+Renal Maturation|B
+T-cell apoptosis|B
+T-cell migration|B
+T-cell survival|B
+T-helper 17 cell activation|B
+T-helper 2 cell proliferation|B
+TLR signaling|B
+TLR3 signaling|B
+TLR4 signaling|B
+TLR9 signaling|B
+TSLP activity|B
+Th1 cell activation|B
+Th1 response|B
+Th1:Th2 ratio|B
+Th2 response|B
+Triglyceride Synthesis|B
+VLDL biosynthesis|B
+VLDL secretion|B
+Weibel-Palade body externalization|B
+activated t cell extravasation|B
+activated t cell tethering / rolling|B
+adipocyte lipolysis|B
+adipose glucose import|B
+adipose insulin receptor signaling pathway|B
+anchorage-independent growth|B
+b-cell migration|B
+basophil extravasation|B
+blood flow|B
+calpain activation|B
+cell scattering|B
+cell senescence|B
+chondrogenesis|B
+cyclic stretch|B
+degranulation|B
+dendritic cell extravasation|B
+dendritic cell migration to infection|B
+dendritic cell tethering / rolling|B
+endothelial barrier function|B
+eosinophil extravasation|B
+erythrocyte sedimentation rate|B
+exercise|B
+fatty acid esterification|B
+fatty acid import|B
+female fertility|B
+fertility|B
+focal adhesion disassembly|B
+follicle formation|B
+food intake|B
+glucose oxidation|B
+granulocyte activation|B
+heart rate|B
+integrin mediated cell adhesion|B
+laminar shear stress|B
+leptin activity|B
+lipid peroxidation|B
+lipogenesis|B
+liver glucose import|B
+liver insulin receptor signaling pathway|B
+long-chain peroxisomal fatty acid beta-oxidation|B
+low pH|B
+lung surfactant secretion|B
+macrophage IL1A secretion|B
+macrophage IL6 secretion|B
+macrophage IL8 secretion|B
+macrophage TNF secretion|B
+male fertility|B
+mast cell TNF secretion|B
+mast cell histamine secretion|B
+mean arterial pressure|B
+mechanical strain|B
+mechanical stress|B
+membrane polarization|B
+mitochondrial membrane potential|B
+monocyte adherence|B
+monocyte extravasation|B
+monocyte migration to infection|B
+monocyte tethering / rolling|B
+muscle glucose import|B
+muscle insulin receptor signaling pathway|B
+muscle stretch|B
+natural killer cell activation-dependent arrest|B
+natural killer cell extravasation|B
+neuron cell death|B
+neutrophil ELA2 secretion|B
+neutrophil extravasation|B
+neutrophil migration to infection|B
+neutrophil polarization|B
+neutrophil tethering / rolling|B
+peroxisomal fatty acid beta-oxidation|B
+peroxisome proliferation|B
+phosphatidylcholine excretion|B
+phospholipid excretion|B
+platelet tethering / rolling|B
+rapid cell migration|B
+regulatory t-cell differentiation|B
+renal sodium ion reabsorption|B
+renal water reabsorption|B
+response to shear stress|B
+th2 cell activation|B
+thermogenesis|B
+Diet, Low-fiber|AB
+thrombopoietin activity|B
+tight junction formation|B
+tight junction permeability|B
+tissue repair|B
+turbulent shear stress|B
+vascular remodeling|B
+vascular smooth muscle cell migration|B
+vascular smooth muscle cell proliferation|B
+Cellular Infiltration|B
+butyrate oxidation|B
+Low FODMAP Diet|AB
+FOXO Transcription Factor Family Signaling Pathway|B
+Diet, High sugar|AB
+Group 3 Innate Lymphoid Differentiation|B
+E-series resolvin biosynthetic process|B
+ECM-Receptor Interaction Signaling Pathway|B
+FODMAP diet|AB
+metaplasia, paneth cell|B
+epithelial cell signaling|B
+goblet cell differentiation|B
+M1 macrophage polarization|B
+spleen cell activation|B
+S100A8/MyD88/NFkappa signaling B pathway|B
+bile acid dehydroxylation|B
+intestinal lipid absorption|B
+hypothalamic-autonomic nervous system axis activation|B
+intestine congestion|B
+auxotrophy|B
+fecal diversion|B
+PI3K/AKT1 Signaling Pathway|B
+Suppressor of Cytokine Signaling|B
+regulatory T cell activation|B
+regulatory T cell physiology trait|B
+lymph node infiltration|B
+Diet, High Sugar|AB
+High FODMAP Diet|AB
+Fasting Mimicking Diet|AB
+linoleic acid isomerization|B
+sodium ion absorption|B
+chloride ion absorption|B
+Diet, Medium-fiber|AB
+ADP-ribosyltransferase activity|B
+epithelial vacuolization|B
+resolvin E biosynthesis|B
+Diet, High-fiber|AB
+type VI secretion system|B
+bacterial aggregation|B
+filament formation|B
+bacterial trafficking|B
+bacterial aggregation|B
+global regulation of transcription|B
+flaking of the villus top|B
+bacterial perforation|B
